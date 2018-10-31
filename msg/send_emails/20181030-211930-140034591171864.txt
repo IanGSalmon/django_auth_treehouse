@@ -1,0 +1,25 @@
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on port-8000-s3pfznqsi5.treehouse-app.com
+From: webmaster@localhost
+To: isalmon1@gmail.com
+Date: Tue, 30 Oct 2018 21:19:30 -0000
+Message-ID: <20181030211930.489.27976@a923f109f319>
+
+
+You're receiving this email because you requested a password reset for your user account at port-8000-s3pfznqsi5.treehouse-app.com.
+
+Please go to the following page and choose a new password:
+
+http://port-8000-s3pfznqsi5.treehouse-app.com/accounts/reset/NA/50v-669b64fc4b257b51bf14/
+
+Your username, in case you've forgotten: iansalmon
+
+Thanks for using our site!
+
+The port-8000-s3pfznqsi5.treehouse-app.com team
+
+
+
+-------------------------------------------------------------------------------
